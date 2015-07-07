@@ -2,12 +2,8 @@
 
 ### Parts
 
-- OEM oil filter
-No. 15400-PCX-004
-
-- 14mm crush washer
-No. 94109-14000
-
+- OEM oil filter No. 15400-PCX-004
+- 14mm crush washer No. 94109-14000
 - 5.1 quarts | 4.83 liters 10W-30 engine oil
 - 6 quarts | 5.68 liters 10W-30 engine oil
 
@@ -17,12 +13,10 @@ No. 94109-14000
 - 17mm socket
 - Ratchet
 - Torque wrench
-
 - Funnel
 - Oil drain pan
 - Oil filter wrench
 - Rubber mallet
-
 - Floor jack
 - Jack stands
 - Wheel chocks

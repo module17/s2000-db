@@ -2,13 +2,9 @@
 
 ### Parts
 
-- Fill bolt crush washer
-No. 94109-20000
-
-- Drain bolt crush washer
-No. 94109-14000
-
-- 2 quarts - OEM MTF Fluid
+- Fill bolt crush washer No. 94109-20000
+- Drain bolt crush washer No. 94109-14000
+- 2 quarts | 1.89 liters - OEM MTF Fluid
 
 ### Tools
 
