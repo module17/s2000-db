@@ -23,6 +23,10 @@ No. 94109-14000
 - Oil filter wrench
 - Rubber mallet
 
+- Floor jack
+- Jack stands
+- Wheel chocks
+
 ### Torque Specs
 
 - 17mm drain plug - 33 lb-ft
